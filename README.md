@@ -1,2 +1,6 @@
 # CS-Modern-Topics-PSets
-Problem Sets from my High School Modern Topics in CS course
+Modern Topics in CS: Machine learning & quantum computation
+- Classical Logic Gates
+- Quantum Mechanics
+- Application of Qubits
+- Machine Learning & Neural Networks
