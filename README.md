@@ -1,4 +1,4 @@
-# CS-Modern-Topics-PSets
+# Modern Topics in CS Problem Sets
 Modern Topics in CS: Machine learning & quantum computation
 - Classical Logic Gates
 - Quantum Mechanics
