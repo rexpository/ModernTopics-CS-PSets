@@ -1,5 +1,5 @@
 # Modern Topics in CS Problem Sets
-Modern Topics in CS: Machine learning & quantum computation
+Modern Topics in CS: Machine learning & Quantum Computation
 - Classical Logic Gates
 - Quantum Mechanics
 - Application of Qubits
